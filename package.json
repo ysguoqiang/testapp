@@ -1,7 +1,7 @@
 {
   "name": "testapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "手动创建的第一个express程序",
   "main": "app.js",
   "dependencies": {},
   "devDependencies": {},
